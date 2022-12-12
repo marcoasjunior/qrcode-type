@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/marcoasjunior/qrcode-type#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "qrcode": "^1.4.4",
     "typescript": "^3.9.2"
   },
